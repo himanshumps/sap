@@ -1,0 +1,5 @@
+APP_NAME: rec-mar-2019
+MS_NAME: sap
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/sap.git
+SONAR_HOST_URL: http://sonar-rec-mar-2019-cicd.52.172.12.252.nip.io
